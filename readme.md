@@ -4,7 +4,7 @@ The project gives us the ability to visualize the cached log file.
 
 We have two demonstrations.
 
-The first one is load cached log file and visualize it.
+The first one is to load cached log files and visualize them.
 
 * [LogcatActivity](doc/logcat.md)
 
