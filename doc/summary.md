@@ -2,7 +2,7 @@
 
 * How to get the package name without `context`
 
-One day When I've used the `File.createTempFile("tmp","log")`, I feel amazing. How does this guy get the path with context?
+One day When I've used the `File.createTempFile("tmp","log")`, I feel amazing. How does this guy get the path without context?
 
 ```
 //Create a temp file from File.createTempFile("tmp","log")
