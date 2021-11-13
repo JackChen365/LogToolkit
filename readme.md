@@ -10,7 +10,7 @@ The first one is to load cached log files and visualize them.
 
 Then, We have another real-time log visualize sample
 
-* [LogcatActivity](doc/realtime.md)
+* [RealtimeLogActivity](doc/realtime.md)
 
 Here is the demo apk file
 
