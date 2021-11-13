@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LogToolkit</string>
+    <string name="share">Share</string>
+    <string name="apply">Apply</string>
+
+    <string-array name="log_level_array">
+        <item>Verbose</item>
+        <item>Debug</item>
+        <item>Info</item>
+        <item>Warn</item>
+        <item>Error</item>
+    </string-array>
+</resources>
